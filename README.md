@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KP_aVj_jQvzlexF5DWWNAU0fqWI_XE4I?usp=sharing)
 
-Vamos a emplear herramientas de altonivel como Tachable Machine y Tensorflow Playground para podre introducirnos al mundo del Deep Learning sin un mayor conocimiento.
+Vamos a emplear herramientas de alto nivel como Tachable Machine y Tensorflow Playground para podre introducirnos al mundo del Deep Learning sin un mayor conocimiento.
 
 Este es el código del Taller compartido para FLISOL Loja 2021.
 
