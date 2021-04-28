@@ -1,0 +1,3 @@
+0 Pina
+1 Pera
+2 Fresa
